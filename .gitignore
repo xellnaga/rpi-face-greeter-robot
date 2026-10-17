@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+run_log.txt
+test_run.log
+current_view.jpg
+test_frame.jpg
+sample_face.jpg
+sample_face_result.jpg
+snapshots/
+.vscode/
+.idea/
+.env
